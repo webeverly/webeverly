@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 from Bev
+
+## Currently
+- Working at : Akinox
+
+## Past
+- Working at : DreaminGetAway
+- Studying at : Cegep de Sainte-Foy
+
+
 
 <!--
 **webeverly/webeverly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
