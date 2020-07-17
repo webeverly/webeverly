@@ -1,20 +1,20 @@
 # Hi there 👋 from Bev
 
 ## Currently
-- Working at : Akinox
+- 🔭 Working at : Akinox
+- 🌱 Learning: React.js
 
 ## Past
-- Worked at : DreaminGetAway
-- Studied at : Cegep de Sainte-Foy
+- 🔭 Worked at : DreaminGetAway
+- 🌱 Studied at : Cegep de Sainte-Foy
 
 ### Tech I like
 - React.js
 - Sass
 
+
 <!--
 **webeverly/webeverly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
