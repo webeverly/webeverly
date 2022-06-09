@@ -19,10 +19,12 @@
 - 🚴‍♀️ Sports (like hockey 🏒, soccer ⚽️, football 🏈, tennis 🎾)
 - 🗣 Languages (would loooove to be a polyglot 🤓)
 
-📫 How to reach me: 
+## 📫 How to reach me: 
 - LinkedIn
 - Email
 
+
+## Might be interesting : 
 - 👯 I’m looking to collaborate on awesome projects which will help people.
 - 🤔 I’m looking for help with everything back-end related
 
