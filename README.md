@@ -3,16 +3,16 @@
 - ⚡ Fun fact: I come from French Canada (Quebec) and am now based in France
 
 ## Currently
-- 🌱 Learning: <img src="https://img.shields.io/badge/vue.js-282C34?logo=vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="25" />
-
+- 🌱 Learning: <img src="https://img.shields.io/badge/vue.js-282C34?logo=vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="15" />
+- 🔭 Working remotely at : Liberkeys 🏠 
 
 ## Past
 - 🔭 Worked at : DreaminGetAway, Cossette, Akinox
 - 🌱 Studied at : CÉGEP de Sainte-Foy, Université Gustave-Eiffel
 
 ## Tech I like
-- <img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js" height="25" />
-- <img src="https://img.shields.io/badge/SASS-282C34?logo=SASS&logoColor=CD6799" alt="SASS" title="SASS" height="25" />
+- <img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js" height="15" />
+- <img src="https://img.shields.io/badge/SASS-282C34?logo=SASS&logoColor=CD6799" alt="SASS" title="SASS" height="15" />
 - Tailwind
 
 ## Stuff I also like
