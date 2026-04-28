@@ -4,10 +4,10 @@
 
 ## Currently
 - 🌱 Learning: <img src="https://img.shields.io/badge/vue.js-282C34?logo=vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="15" />
-- 🔭 Working remotely at : Liberkeys 🏠 
+- 🔭 Working at : Cognyx
 
 ## Past
-- 🔭 Worked at : DreaminGetAway, Cossette, Akinox
+- 🔭 Worked at : Liberkeys, DreaminGetAway, Cossette, Akinox
 - 🌱 Studied at : CÉGEP de Sainte-Foy, Université Gustave-Eiffel
 
 ## Tech I like
